@@ -49,7 +49,7 @@ What makes this project unique:
 
 | Scatterplot: Area vs. Price | Heatmap: Feature Correlation |
 |-----------------------------|------------------------------|
-| ![scatter](https://placehold.co/300x200?text=Scatterplot) | ![heatmap](https://placehold.co/300x200?text=Heatmap) |
+| ![Augsburg](https://media.brate.com/images/europa/niemcy/augsburg/augsburg-1.jpg?tr=n-small_thumbnail) | ![Apartment](https://lh6.googleusercontent.com/proxy/d1RwIipTi69jnt0XfaDdLerpnZOxIPZh-JOwJtRelWBFwhgXZ40KhYRbMMRKEq9uhyivS1br_IJQXWleJpvzdc7TWxdDpTO3iBqWsrAlpyOKMfTIbwLWElc__HpGjC1pBKU) |
 
 ---
 
